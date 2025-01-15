@@ -7,9 +7,6 @@
 #### Summary of Findings
 
 In this project, I have compared the performance of several machine learning models, including Logistic Regression, Random Forest, Support Vector Machine (SVM), and a Neural Network, for a binary classification task. The evaluation metrics used were Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
-Here’s the updated comparative table with the provided metrics  
-
----
 
 ### Updated Model Performance Comparison
 
