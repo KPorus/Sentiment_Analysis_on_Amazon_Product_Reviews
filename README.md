@@ -9,16 +9,14 @@
 In this project, I have compared the performance of several machine learning models, including Logistic Regression, Random Forest, Support Vector Machine (SVM), and a Neural Network, for a binary classification task. The evaluation metrics used were Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
 
 ### Updated Model Performance Comparison
+| Metric       | Logistic Regression | Random Forest | Support Vector Machine (SVM) | Neural Network                |
+|--------------|----------------------|---------------|-------------------------------|--------------------------------|
+| Accuracy     | 0.89175             | 0.87625       | 0.89550                       | 0.91                          |
+| Precision    | 0.910091            | 0.881402      | 0.906696                      | 0.94 (Class 1), 0.79 (Class 0)|
+| Recall       | 0.951677            | 0.967456      | 0.961538                      | 0.93 (Class 1), 0.83 (Class 0)|
+| F1 Score     | 0.930419            | 0.922426      | 0.933312                      | 0.94 (Class 1), 0.81 (Class 0)|
+| ROC AUC      | 0.942076            | 0.931118      | 0.945670                      | NA                            |
 
- Metric        Logistic Regression  Random Forest  Support Vector Machine (SVM)  Neural Network           
-----------------------------------------------------------------------------------------------------------------------------------
- Accuracy       0.89175                  0.87625            0.89550                       0.91                     
- Precision      0.910091                 0.881402           0.906696                      0.94 (Class 1), 0.79 (Class 0) 
- Recall         0.951677                 0.967456       0.961538                          0.93 (Class 1), 0.83 (Class 0) 
- F1 Score       0.930419                 0.922426           0.933312                      0.94 (Class 1), 0.81 (Class 0) 
- ROC AUC        0.942076                 0.931118           0.945670                      NA                           
-
----
 
 ### Analysis
 
